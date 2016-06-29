@@ -1,2 +1,2 @@
 # hello-duniya
-moving from programme director to programmer + director hehehehe
+on a more serious note – the question isn't why learn programming. It is – why not learn programming!
